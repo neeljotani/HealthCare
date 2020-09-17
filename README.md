@@ -24,7 +24,8 @@ Below is the flow of first approach:
 9) Now if user enters the search phrase such a way that tokens from search query will be same, then we are not going to build index again. We will serve the results based on the stored index in previous step.
 10) But if the tokens are new, then index building will run again. That means Index building is not one time process, it is continuous process. Every time Index will be evolved if users use it more and more.
  
-
+Below is the diagram shows the process mentioned above:
+(screenshots/Logic Flow.png)
 
 There are few words/processes mentioned in above step are covered in details separate files:
 
