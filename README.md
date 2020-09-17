@@ -25,7 +25,6 @@ Below is the flow of first approach:
 10) But if the tokens are new, then index building will run again. That means Index building is not one time process, it is continuous process. Every time Index will be evolved if users use it more and more.
  
 
-![alt text](http://url/to/Logic Flow.png)
 
 There are few words/processes mentioned in above step are covered in details separate files:
 
